@@ -81,7 +81,7 @@ Clone this repository to your desired folder:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="author"></a>
 
 
 👤 **RAPHAEL OKOLO**
@@ -90,7 +90,6 @@ Clone this repository to your desired folder:
 - Twitter: [@twitterhandle](https://twitter.com/silvaz_creation)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/raphael-okolo-480012227/)
 
-👤 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
