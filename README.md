@@ -79,7 +79,7 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
 ## 👥 Authors <a name="author"></a>
 
@@ -89,6 +89,7 @@ Clone this repository to your desired folder:
 - GitHub: [@githubhandle](https://github.com/RaphDasilva)
 - Twitter: [@twitterhandle](https://twitter.com/silvaz_creation)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/raphael-okolo-480012227/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
